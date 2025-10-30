@@ -1,0 +1,8 @@
+# robots.txt for https://bpaandro84.github.io/
+# Allow Google to crawl app-ads.txt for AdMob verification
+
+User-agent: *
+Allow: /
+
+User-agent: Google-adstxt
+Disallow:
