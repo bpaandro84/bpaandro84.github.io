@@ -1,4 +1,4 @@
-# robots.txt for https://bpaandro84.github.io/
+# robots.txt for https://armedia.web.id/
 # Allow Google to crawl app-ads.txt for AdMob verification
 
 User-agent: *
